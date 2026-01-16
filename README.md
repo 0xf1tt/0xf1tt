@@ -12,6 +12,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,mongodb,postgres,mysql,redis&theme=dark&perline=12" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,vercel,git,github,figma,vscode&theme=dark&perline=12" />
-  <br/><br?>
+  <br/>
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark&perline=12" />
 </p>
